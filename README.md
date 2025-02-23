@@ -1,19 +1,47 @@
-## Hi there 👋
+<h1 align="left">Hello There 👋</h1>
 
-<!--
-**GuilhermeAlves58/GuilhermeAlves58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Sobre:<br></h2>Meu nome é Guilherme Alves<br>Sou um estudante autodidata<br>em programação, com foco no desenvolvimento de<br>sistemas, especialmente na área de back-end.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">✨ Comecei em Dezembro de 2024<br><br>📚 Atualmente estudando Python e logo após Java<br><br>🎯 Fazer uma faculdade de Ti no exterior e conseguir um emprego na área</p>
+
+###
+
+<h2 align="left">Estou aprendendo a codar em:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+###
+
+<h4 align="left">Redes sociais:</h4>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/ guilherme-alves-marcondes-dos-santos-160277341" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="guilherme.marcondesds@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+
+###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeAlves58/GuilhermeAlves58/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeAlves58/GuilhermeAlves58/output/github-contribution-grid-snake-dark.svg">
