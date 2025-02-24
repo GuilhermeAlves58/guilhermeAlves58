@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Comecei em Dezembro de 2024<br><br>📚 Atualmente estudando Python e logo após Java<br><br>🎯 Fazer uma faculdade de Ti no exterior e conseguir um emprego na área</p>
+<p align="left">:clock130: Comecei em Dezembro de 2024<br><br>📚 Atualmente estudando Python e logo após Java<br><br>🎯 Fazer uma faculdade de Ti no exterior e conseguir um emprego na área</p>
 
 ###
 
