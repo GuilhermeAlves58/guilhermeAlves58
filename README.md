@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre:<br></h2>Meu nome é Guilherme Alves<br>Sou um estudante autodidata<br>em programação, com foco no desenvolvimento de<br>sistemas, especialmente na área de back-end.</h2>
+<h2 align="left">Sobre:<br></h2>Meu nome é Guilherme Alves Marcondes Dos Santos<br>Sou um estudante autodidata<br>em programação, com foco no desenvolvimento de<br>sistemas, especialmente na área de back-end.</h2>
 
 ###
 
